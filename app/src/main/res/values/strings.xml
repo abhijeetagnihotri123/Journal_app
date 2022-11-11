@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Journal_App</string>
+    <string name="title_text">Self Gratitude Journal</string>
+    <string name="grateful_text">What are you grateful for?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="create_account">Create Account</string>
+</resources>
