@@ -7,4 +7,13 @@
     <string name="password_hint">Password</string>
     <string name="login_text">Login</string>
     <string name="create_account">Create Account</string>
+    <string name="or">Or</string>
+    <string name="username_hint">Username</string>
+    <string name="title">Title</string>
+    <string name="your_thoughts">Your Thoughts</string>
+    <string name="save_text">Save</string>
+    <string name="hint_text">Title</string>
+    <string name="hint_thoughts">Thougts</string>
+    <string name="menu">Add Thoughts</string>
+    <string name="no_thoughts_hint">Write a journal entry by clicking + icon</string>
 </resources>
